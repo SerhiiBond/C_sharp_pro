@@ -9,3 +9,14 @@ C:\C#\C sharp pro\ArraysAndString\01_SymbolsInLine\obj\Debug\netcoreapp2.1\01_Sy
 C:\C#\C sharp pro\ArraysAndString\01_SymbolsInLine\obj\Debug\netcoreapp2.1\01_SymbolsInLine.AssemblyInfo.cs
 C:\C#\C sharp pro\ArraysAndString\01_SymbolsInLine\obj\Debug\netcoreapp2.1\01_SymbolsInLine.dll
 C:\C#\C sharp pro\ArraysAndString\01_SymbolsInLine\obj\Debug\netcoreapp2.1\01_SymbolsInLine.pdb
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\01_SymbolsInLine\bin\Debug\netcoreapp2.1\01_SymbolsInLine.deps.json
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\01_SymbolsInLine\bin\Debug\netcoreapp2.1\01_SymbolsInLine.runtimeconfig.json
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\01_SymbolsInLine\bin\Debug\netcoreapp2.1\01_SymbolsInLine.runtimeconfig.dev.json
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\01_SymbolsInLine\bin\Debug\netcoreapp2.1\01_SymbolsInLine.dll
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\01_SymbolsInLine\bin\Debug\netcoreapp2.1\01_SymbolsInLine.pdb
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\01_SymbolsInLine\obj\Debug\netcoreapp2.1\01_SymbolsInLine.csprojAssemblyReference.cache
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\01_SymbolsInLine\obj\Debug\netcoreapp2.1\01_SymbolsInLine.csproj.CoreCompileInputs.cache
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\01_SymbolsInLine\obj\Debug\netcoreapp2.1\01_SymbolsInLine.AssemblyInfoInputs.cache
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\01_SymbolsInLine\obj\Debug\netcoreapp2.1\01_SymbolsInLine.AssemblyInfo.cs
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\01_SymbolsInLine\obj\Debug\netcoreapp2.1\01_SymbolsInLine.dll
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\01_SymbolsInLine\obj\Debug\netcoreapp2.1\01_SymbolsInLine.pdb

@@ -1,0 +1,7 @@
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\04_EvenOddNumber\bin\Debug\04_EvenOddNumber.exe.config
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\04_EvenOddNumber\bin\Debug\04_EvenOddNumber.exe
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\04_EvenOddNumber\bin\Debug\04_EvenOddNumber.pdb
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\04_EvenOddNumber\obj\Debug\04_EvenOddNumber.csprojAssemblyReference.cache
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\04_EvenOddNumber\obj\Debug\04_EvenOddNumber.csproj.CoreCompileInputs.cache
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\04_EvenOddNumber\obj\Debug\04_EvenOddNumber.exe
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\04_EvenOddNumber\obj\Debug\04_EvenOddNumber.pdb
