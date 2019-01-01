@@ -48,5 +48,27 @@ namespace _02_Array
                 Console.WriteLine();
             }
         }
+
+        public int this[int i, int j]
+        {
+            get
+            {
+                if( i>= line && j >= row)
+                {
+                    Console.WriteLine("Ошибка! обращение за пределы массива."); 
+                }
+                return myArray[i][j];
+
+            }
+        }
+
+        public int NumberOfLines()
+        {
+            return myArray.Length;
+        }
+        public int NumberOfRows()
+        {
+            return myArray[0].Length;
+        }
     }
 }

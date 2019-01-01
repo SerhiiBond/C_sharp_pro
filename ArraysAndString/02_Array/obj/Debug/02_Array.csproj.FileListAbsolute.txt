@@ -5,3 +5,10 @@ D:\C#_SBond\C sharp pro\ArraysAndString\02_Array\obj\Debug\02_Array.csprojAssemb
 D:\C#_SBond\C sharp pro\ArraysAndString\02_Array\obj\Debug\02_Array.csproj.CoreCompileInputs.cache
 D:\C#_SBond\C sharp pro\ArraysAndString\02_Array\obj\Debug\02_Array.exe
 D:\C#_SBond\C sharp pro\ArraysAndString\02_Array\obj\Debug\02_Array.pdb
+C:\C#\C sharp pro\C_sharp_pro\ArraysAndString\02_Array\bin\Debug\02_Array.exe.config
+C:\C#\C sharp pro\C_sharp_pro\ArraysAndString\02_Array\bin\Debug\02_Array.exe
+C:\C#\C sharp pro\C_sharp_pro\ArraysAndString\02_Array\bin\Debug\02_Array.pdb
+C:\C#\C sharp pro\C_sharp_pro\ArraysAndString\02_Array\obj\Debug\02_Array.csprojAssemblyReference.cache
+C:\C#\C sharp pro\C_sharp_pro\ArraysAndString\02_Array\obj\Debug\02_Array.csproj.CoreCompileInputs.cache
+C:\C#\C sharp pro\C_sharp_pro\ArraysAndString\02_Array\obj\Debug\02_Array.exe
+C:\C#\C sharp pro\C_sharp_pro\ArraysAndString\02_Array\obj\Debug\02_Array.pdb

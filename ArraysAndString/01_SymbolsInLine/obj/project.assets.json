@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lab1\\.nuget\\packages\\": {},
+    "C:\\Users\\sbond\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#_SBond\\C sharp pro\\ArraysAndString\\01_SymbolsInLine\\01_SymbolsInLine.csproj",
+      "projectUniqueName": "C:\\C#\\C sharp pro\\C_sharp_pro\\ArraysAndString\\01_SymbolsInLine\\01_SymbolsInLine.csproj",
       "projectName": "01_SymbolsInLine",
-      "projectPath": "D:\\C#_SBond\\C sharp pro\\ArraysAndString\\01_SymbolsInLine\\01_SymbolsInLine.csproj",
-      "packagesPath": "C:\\Users\\Lab1\\.nuget\\packages\\",
-      "outputPath": "D:\\C#_SBond\\C sharp pro\\ArraysAndString\\01_SymbolsInLine\\obj\\",
+      "projectPath": "C:\\C#\\C sharp pro\\C_sharp_pro\\ArraysAndString\\01_SymbolsInLine\\01_SymbolsInLine.csproj",
+      "packagesPath": "C:\\Users\\sbond\\.nuget\\packages\\",
+      "outputPath": "C:\\C#\\C sharp pro\\C_sharp_pro\\ArraysAndString\\01_SymbolsInLine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Lab1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sbond\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
