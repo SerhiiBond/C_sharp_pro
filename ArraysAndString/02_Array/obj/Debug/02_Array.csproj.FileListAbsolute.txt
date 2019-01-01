@@ -1,0 +1,7 @@
+D:\C#_SBond\C sharp pro\ArraysAndString\02_Array\bin\Debug\02_Array.exe.config
+D:\C#_SBond\C sharp pro\ArraysAndString\02_Array\bin\Debug\02_Array.exe
+D:\C#_SBond\C sharp pro\ArraysAndString\02_Array\bin\Debug\02_Array.pdb
+D:\C#_SBond\C sharp pro\ArraysAndString\02_Array\obj\Debug\02_Array.csprojAssemblyReference.cache
+D:\C#_SBond\C sharp pro\ArraysAndString\02_Array\obj\Debug\02_Array.csproj.CoreCompileInputs.cache
+D:\C#_SBond\C sharp pro\ArraysAndString\02_Array\obj\Debug\02_Array.exe
+D:\C#_SBond\C sharp pro\ArraysAndString\02_Array\obj\Debug\02_Array.pdb
