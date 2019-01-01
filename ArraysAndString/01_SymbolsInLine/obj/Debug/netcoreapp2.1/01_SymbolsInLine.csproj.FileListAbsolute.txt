@@ -1,0 +1,11 @@
+C:\C#\C sharp pro\ArraysAndString\01_SymbolsInLine\bin\Debug\netcoreapp2.1\01_SymbolsInLine.deps.json
+C:\C#\C sharp pro\ArraysAndString\01_SymbolsInLine\bin\Debug\netcoreapp2.1\01_SymbolsInLine.runtimeconfig.json
+C:\C#\C sharp pro\ArraysAndString\01_SymbolsInLine\bin\Debug\netcoreapp2.1\01_SymbolsInLine.runtimeconfig.dev.json
+C:\C#\C sharp pro\ArraysAndString\01_SymbolsInLine\bin\Debug\netcoreapp2.1\01_SymbolsInLine.dll
+C:\C#\C sharp pro\ArraysAndString\01_SymbolsInLine\bin\Debug\netcoreapp2.1\01_SymbolsInLine.pdb
+C:\C#\C sharp pro\ArraysAndString\01_SymbolsInLine\obj\Debug\netcoreapp2.1\01_SymbolsInLine.csprojAssemblyReference.cache
+C:\C#\C sharp pro\ArraysAndString\01_SymbolsInLine\obj\Debug\netcoreapp2.1\01_SymbolsInLine.csproj.CoreCompileInputs.cache
+C:\C#\C sharp pro\ArraysAndString\01_SymbolsInLine\obj\Debug\netcoreapp2.1\01_SymbolsInLine.AssemblyInfoInputs.cache
+C:\C#\C sharp pro\ArraysAndString\01_SymbolsInLine\obj\Debug\netcoreapp2.1\01_SymbolsInLine.AssemblyInfo.cs
+C:\C#\C sharp pro\ArraysAndString\01_SymbolsInLine\obj\Debug\netcoreapp2.1\01_SymbolsInLine.dll
+C:\C#\C sharp pro\ArraysAndString\01_SymbolsInLine\obj\Debug\netcoreapp2.1\01_SymbolsInLine.pdb
