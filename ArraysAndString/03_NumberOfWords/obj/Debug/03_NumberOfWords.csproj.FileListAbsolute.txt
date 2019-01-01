@@ -1,0 +1,7 @@
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\03_NumberOfWords\bin\Debug\03_NumberOfWords.exe.config
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\03_NumberOfWords\bin\Debug\03_NumberOfWords.exe
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\03_NumberOfWords\bin\Debug\03_NumberOfWords.pdb
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\03_NumberOfWords\obj\Debug\03_NumberOfWords.csprojAssemblyReference.cache
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\03_NumberOfWords\obj\Debug\03_NumberOfWords.csproj.CoreCompileInputs.cache
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\03_NumberOfWords\obj\Debug\03_NumberOfWords.exe
+D:\C#_SBond\C_sharp_pro\C_sharp_pro\ArraysAndString\03_NumberOfWords\obj\Debug\03_NumberOfWords.pdb
